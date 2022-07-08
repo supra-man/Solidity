@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supra-man/practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supra-man/practice/issues"
+  },
+  "homepage": "https://github.com/supra-man/practice#readme",
+  "devDependencies": {
+    "hardhat": "^2.10.0"
+  }
+}
